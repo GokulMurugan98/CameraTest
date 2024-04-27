@@ -1,0 +1,6 @@
+framework module Pods_CameraTestForML {
+  umbrella header "Pods-CameraTestForML-umbrella.h"
+
+  export *
+  module * { export * }
+}
